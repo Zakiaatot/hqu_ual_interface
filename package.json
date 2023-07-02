@@ -1,0 +1,18 @@
+{
+  "name": "hqu_ual_interface",
+  "version": "1.0.0",
+  "description": "华侨大学统一验证登录逆向接口",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "zakiaatot",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "express": "^4.18.2",
+    "superagent": "^8.0.9"
+  }
+}
